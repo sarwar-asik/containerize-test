@@ -1,0 +1,5 @@
+Mon Sep 30 2024 14:50:15 } [DOCKER] error: The "path" argument must be of type string. Received undefined
+Mon Sep 30 2024 14:50:28 } [DOCKER] error: The "path" argument must be of type string. Received undefined
+Mon Sep 30 2024 14:55:23 } [DOCKER] error: This is a forced error
+Mon Sep 30 2024 14:55:31 } [DOCKER] error: This is a forced error
+Mon Sep 30 2024 14:55:31 } [DOCKER] error: This is a forced error

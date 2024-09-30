@@ -1,0 +1,160 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\.e0879c4575fa111acd670b03ea0687c258e79185-audit.json",
+    "files": [
+        {
+            "date": 1727675184368,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-46-24-success.log",
+            "hash": "5d8f50da6fd8fb8d9b0dd100efce45d40b63891d905c586dc6c89d0e4a78265b"
+        },
+        {
+            "date": 1727675484526,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-51-24-success.log",
+            "hash": "97aa233c8a91ec6c7556f51257203b60598aa5dc972c33962a48670194541bbc"
+        },
+        {
+            "date": 1727675506404,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-51-46-success.log",
+            "hash": "aade59957738d70ad46e5486bf0b45446711f1cab8a42185771a73537020502e"
+        },
+        {
+            "date": 1727675536003,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-52-16-success.log",
+            "hash": "00ebeec50267d86ef33e4816b0578a8a246dccad8863386eb7d31c53db9525d0"
+        },
+        {
+            "date": 1727675537858,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-52-17-success.log",
+            "hash": "81ddca3aa66649383f25a6dd823ce1517ef4bf5fc41def524ab2d4b0c7f39494"
+        },
+        {
+            "date": 1727675554638,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-52-34-success.log",
+            "hash": "234d42fab2ec250b0f32573b56ede83769a076e30060e2174ccd77377042f681"
+        },
+        {
+            "date": 1727675559322,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-52-39-success.log",
+            "hash": "1a22b33b2830f95d5e9fd180be7674bf658b34502989771ab588a6dd4e5ba12f"
+        },
+        {
+            "date": 1727675573883,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-52-53-success.log",
+            "hash": "506e2724a0b24f4b469df8aff4db6a9b087b01bd718a7eb4a160dcf17657446c"
+        },
+        {
+            "date": 1727675576480,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-52-56-success.log",
+            "hash": "8c38744222ab99f571765ccf83608d6a803c9bbfcd5ba3e85eebb4a27b2662b7"
+        },
+        {
+            "date": 1727675601397,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-53-21-success.log",
+            "hash": "c09372500ab0ef8c1840d49bf20b8492a1d8ebf38bef413502d880028ce574fb"
+        },
+        {
+            "date": 1727675611202,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-53-31-success.log",
+            "hash": "ede674b4c1d8f26d39661b4d80bf5569c428d6215ea444add6a853b48a0262b3"
+        },
+        {
+            "date": 1727675619517,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-53-39-success.log",
+            "hash": "ee7d4f3691ba1f398f3dec125550851df96488f9a26f216c0a40d72d9bbbf4e6"
+        },
+        {
+            "date": 1727675626834,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-53-46-success.log",
+            "hash": "e0f01fde034b501e5a259d753988959ee0dc9a8928a05b10dfde13a1bf532eda"
+        },
+        {
+            "date": 1727675640371,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-54-00-success.log",
+            "hash": "732c28e1ecf8954ebdb2806c71b60cdfe5230e5e14fb23b8270ca05b348d0617"
+        },
+        {
+            "date": 1727675650455,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-54-10-success.log",
+            "hash": "c5c7c002a7e71925ea7670bc2f682ae0bb3dfc10669fbb00d3ee3e48c0f65e30"
+        },
+        {
+            "date": 1727675653496,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-54-13-success.log",
+            "hash": "923af561ac470755d31630c8357232d15ab7b2a25c03b075f3e763641579f677"
+        },
+        {
+            "date": 1727675654830,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-54-14-success.log",
+            "hash": "2db7e113a764687508bf9da31eec58cb6ede3eea2de96297e093788a6ac77dd3"
+        },
+        {
+            "date": 1727675656057,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-54-16-success.log",
+            "hash": "1396930c1f261b2cce0803c5cf34d89cda8cd67b1bf6565c209edfa96548c148"
+        },
+        {
+            "date": 1727675663860,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-54-23-success.log",
+            "hash": "83b361dd8691fffabe7b7bdafb8d0cb5dca001a88945b18db6273adad4a3fbbf"
+        },
+        {
+            "date": 1727675721468,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-55-21-success.log",
+            "hash": "daae6a30f654d2f4c6f6a7327fa3b245dbc0303d96207bc2e42c7c197c72dfdc"
+        },
+        {
+            "date": 1727675918145,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-58-38-success.log",
+            "hash": "74c9e1ca7c529a69938839c67f531253e6812ffeba27292840e2dce49512d609"
+        },
+        {
+            "date": 1727675931808,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-58-51-success.log",
+            "hash": "14f543ff12967beb80a635e6f382c3003a2b2fafc1699b9bd1db5a61881cc164"
+        },
+        {
+            "date": 1727675986710,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-11-59-46-success.log",
+            "hash": "2dde4841c9da2c59794dec470931756edcce95b76baeec58fcf54f10c2d7c19e"
+        },
+        {
+            "date": 1727686179300,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-14-49-39-success.log",
+            "hash": "5846bdb94b14bab5563aea518af32c5e0e1911d25ad9e0ab018634c471d5bc58"
+        },
+        {
+            "date": 1727686212256,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-14-50-12-success.log",
+            "hash": "1123e1b32800d6c18e9a6cdb8a102a994f9c3042152b32d9c38df45511b81aa9"
+        },
+        {
+            "date": 1727686228031,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-14-50-28-success.log",
+            "hash": "fdab551e41b21e2f4f4993ea5450ef1add9c4be2c56ffb5a1c71ce1dac5645c2"
+        },
+        {
+            "date": 1727686311289,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-14-51-51-success.log",
+            "hash": "9f0e4b0892b638995dd0fc2c5bdee91d6ca439fe301ad22625732a6c0465a462"
+        },
+        {
+            "date": 1727686471307,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-14-54-31-success.log",
+            "hash": "a122f11f9344f93ae2216ec21524c6168c9696c12a95a0633e3b19887c44d08b"
+        },
+        {
+            "date": 1727686484219,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-14-54-44-success.log",
+            "hash": "3dc8d3ab168cbce4c3a29f275fa6a05bac3a6c6e10d5a0e12624cc181c3f1537"
+        },
+        {
+            "date": 1727686582134,
+            "name": "C:\\Projects\\next-level\\Docker\\docker-with-typescipt-backend\\logs\\winston\\successes\\docker-2024-09-30-14-56-22-success.log",
+            "hash": "d767a7c4c5431e63cdf727a6ee3d502de5e41d6161c509a472352ce1e2a53c1c"
+        }
+    ],
+    "hashType": "sha256"
+}
