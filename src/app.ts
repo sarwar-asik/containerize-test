@@ -1,6 +1,8 @@
+import cors from "cors";
 import express, { Application, Request, Response } from "express";
 import path from "path";
 import { LogsRoutes } from "./app/src/modules/Logs/logs.routes";
+import router from "./app/src/routes";
 import { errorlogger } from "./app/src/shared/logger";
 
 const app: Application = express();
@@ -8,8 +10,19 @@ const app: Application = express();
 // Serve static files like CSS
 app.use(express.static(path.join(__dirname, "../public"))); // Adjusted path
 
+app.use(
+  cors({
+    credentials: true,
+    origin: 'http://localhost:3000',
+  })
+);
+
+
 // Parsers
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+app.use('/api/v1', router);
 
 // Welcome route
 app.get("/", (req: Request, res: Response) => {
@@ -26,6 +39,7 @@ app.get("/", (req: Request, res: Response) => {
     </html>
   `);
 });
+
 
 app.get("/error", (req: Request, res: Response) => {
   throw new Error("This is a forced error!");
