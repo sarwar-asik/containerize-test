@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\errors\\.48e51f586932b6a520ad33908fb4c0142fba95b1-audit.json",
+    "files": [
+        {
+            "date": 1732115914193,
+            "name": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\errors\\docker-2024-11-20-21-error.log",
+            "hash": "9e24112d96de308cc48a3920ed93507e79eb2a21f5abb2483bb39038138f4659"
+        },
+        {
+            "date": 1732714198237,
+            "name": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\errors\\docker-2024-11-27-19-error.log",
+            "hash": "46d74b7989b647911eec264a00657c58722b7382e8431515b304787bc3599df5"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\successes\\.09a1c987a41ae8279ed7189021ef03206d666c2f-audit.json",
+    "files": [
+        {
+            "date": 1732115914190,
+            "name": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2024-11-20-21-18-34-success.log",
+            "hash": "08fc094b1dc18bb2aa4d6be83e06fc962b474a9a74487fbe91b4615b1ac76cef"
+        },
+        {
+            "date": 1732115955994,
+            "name": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2024-11-20-21-19-15-success.log",
+            "hash": "76102ba3fcad3a1c4687f54b4eb586dd5df82a33d798c5f93d58cb7f91caa753"
+        },
+        {
+            "date": 1732115956037,
+            "name": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2024-11-20-21-19-16-success.log",
+            "hash": "a10bd0fb67a5329b7da811cc348a32a3d21083072c9422b17d2866b54a102943"
+        },
+        {
+            "date": 1732115975848,
+            "name": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2024-11-20-21-19-35-success.log",
+            "hash": "321439f4133023480aa19b74aa81d932ffa187f671a819b283b3a75571370815"
+        },
+        {
+            "date": 1732115984297,
+            "name": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2024-11-20-21-19-44-success.log",
+            "hash": "14a15a1301ccafb159de0356e74933840ac38016ddfadc2b1b07db2aa8dd371b"
+        },
+        {
+            "date": 1732116059551,
+            "name": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2024-11-20-21-20-59-success.log",
+            "hash": "95fc2f28060b1e05e39db1fca2dffe3042edb42186dc296cac1dc40191d0791d"
+        },
+        {
+            "date": 1732116109335,
+            "name": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2024-11-20-21-21-49-success.log",
+            "hash": "6bfb8ad02d16de07c6b9d8385afdb4e5c85e1ace5c74685a9e3bf975fa3075a5"
+        },
+        {
+            "date": 1732714198234,
+            "name": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2024-11-27-19-29-58-success.log",
+            "hash": "7bf0c37772ee63bf19f9ab365d5805a9ced99f63c6fa867f77be32bad2e0ff36"
+        },
+        {
+            "date": 1732714331640,
+            "name": "C:\\Users\\sarwa\\WEB\\PP\\Projects\\docker-with-typescript-backend\\logs\\winston\\successes\\docker-2024-11-27-19-32-11-success.log",
+            "hash": "5a05f385effc7b37add14e483bf28724ee674f93c82da6af357ee5980f6e59b1"
+        }
+    ],
+    "hashType": "sha256"
+}

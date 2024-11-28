@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 import app from "./app";
 import config from "./app/config";
 import { errorlogger, logger } from "./app/src/shared/logger";
-
+import "colors";
 let server: Server;
 
 async function main() {
@@ -14,8 +14,8 @@ async function main() {
 
 
     server = app.listen(process.env.PORT, () => {
-      console.log(`app is listening on port ${process.env.PORT}`);
-      logger.info(`app is listening on port ${process.env.PORT}`);
+      console.log('\x1b[1m\x1b[34m%s\x1b[0m', `🚀 Server running on port ${process.env.PORT}`.green.bold);
+      logger.info(`🚀 Server running on port ${process.env.PORT}`);
     });
   } catch (err) {
     console.log(err);
